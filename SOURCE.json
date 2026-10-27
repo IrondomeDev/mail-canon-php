@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/IrondomeDev/mail-canon",
-  "commit": "a439f42614b6afc30e56e83ae532b50254b9b3ee",
+  "commit": "89c1c5b79093927a25720692da0fc0c89615489c",
   "path": "php",
   "generator": "tools/export_php.py"
 }
